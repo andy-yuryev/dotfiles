@@ -3,6 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
+        "oracle.com",
+        "130.61.182.16",
         "130.162.251.184",
         "mysw.info",
         "flibusta.is",
