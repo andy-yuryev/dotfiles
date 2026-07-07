@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "paypal.com",
         "mult-fan.tv",
         "oracle.com",
         "oraclecloud.com",
