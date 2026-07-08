@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "pixiv.net",
         "paypal.com",
         "mult-fan.tv",
         "oracle.com",
