@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "catbox.moe",
         "pixiv.net",
         "paypal.com",
         "mult-fan.tv",
