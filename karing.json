@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "ollama.com",
         "static.pub",
         "dell.com",
         "hp.com",
