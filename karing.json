@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "cavernoftime.com",
         "ollama.com",
         "static.pub",
         "dell.com",
