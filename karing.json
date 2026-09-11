@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "meendorux.net",
         "nvidia.com",
         "cavernoftime.com",
         "ollama.com",
