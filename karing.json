@@ -3,6 +3,9 @@
   "rules": [
     {
       "domain_suffix": [
+        "washingtonpost.com",
+        "cloudfront.net",
+        "scroll.com",
         "theins.ru",
         "diabrowser.com",
         "spring.io",
