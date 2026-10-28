@@ -3,6 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
+        "egger.com",
+        "zovofficial.com",
         "samplepal.net",
         "washingtonpost.com",
         "cloudfront.net",
