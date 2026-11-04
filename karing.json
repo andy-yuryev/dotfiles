@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "wikimedia.org",
         "egger.com",
         "zovofficial.com",
         "samplepal.net",
