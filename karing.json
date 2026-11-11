@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "ryoku.dev",
         "wikimedia.org",
         "egger.com",
         "zovofficial.com",
