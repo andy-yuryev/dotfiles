@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "aliexpress-media.com",
         "ryoku.dev",
         "wikimedia.org",
         "egger.com",
