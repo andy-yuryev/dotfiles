@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "x.ai",
         "mndcdn.net",
         "aliexpress-media.com",
         "ryoku.dev",
