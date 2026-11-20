@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "media-amazon.com",
         "x.ai",
         "mndcdn.net",
         "aliexpress-media.com",
